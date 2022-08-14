@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@wdio/local-runner": "^7.20.9",
+    "@wdio/mocha-framework": "^7.20.7",
+    "@wdio/spec-reporter": "^7.20.8",
+    "@wdio/static-server-service": "^7.20.7",
+    "chromedriver": "^103.0.0",
+    "wdio-chromedriver-service": "^7.3.2"
+  }
+}
